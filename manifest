@@ -2,7 +2,7 @@
 # Created Wed Sep 18 09:10:17 AKDT 2019
 # by Raymond E. Marcil <marcilr@gmail.com>
 #
-# Manifest file for use by resync script.
+# Manifest file for use by resync script
 #
 # Python script to automate the check of github hierarchical 
 # directories.  The github directories are named with 
