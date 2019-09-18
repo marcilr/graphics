@@ -31,3 +31,4 @@
 # Source                                         Target
 # -----------------------------------------------------
 ssh://git@github.com/marcilr/feh.git             feh
+ssh://git@github.com/marcilr/gimp.git            gimp
