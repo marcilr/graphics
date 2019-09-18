@@ -1,0 +1,9 @@
+#.gitignore
+# Created Wed Sep 18 09:21:13 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+feh/
+gimp/
